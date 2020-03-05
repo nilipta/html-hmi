@@ -1,0 +1,10 @@
+f1 -> clear----
+f2 -> theft----
+f3-> w1 (l1)
+f4-> l2
+f5 -> l3
+f6 -> (1) 6 data
+f7 -> (2) 7 data
+f8 -> (3) 8 data
+
+bill = 
